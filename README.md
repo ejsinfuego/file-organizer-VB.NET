@@ -1,6 +1,6 @@
 # Simple file organizer
 
-Created as I'am learning VB.NET
+Created as I was learning VB.NET
 
 It creates a new folder according to what you searched, cut files found and paste it on the new folder.
 
