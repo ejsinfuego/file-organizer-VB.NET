@@ -1,4 +1,4 @@
-# Simple file organizer
+# Simple file organizer / VB.NET
 
 Created as I was learning VB.NET
 
